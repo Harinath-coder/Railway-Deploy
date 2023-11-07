@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/sampleDeploy?createTableIfNotExists=true
+    password: Harinath@321
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+

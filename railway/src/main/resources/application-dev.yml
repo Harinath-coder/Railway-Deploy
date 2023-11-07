@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    url: jdbc:mysql://root:EfeF-hf61HCeBa4D45Bh3a56HBdD2EAg@monorail.proxy.rlwy.net:39749/railway
+    username: root
+    password: EfeF-hf61HCeBa4D45Bh3a56HBdD2EAg
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
